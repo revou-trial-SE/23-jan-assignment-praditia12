@@ -6,6 +6,29 @@
 
 .card:hover {
     transform: scale(1.05);
-    box-shadow: 0 4px 8px gray
-    transition: 0.3s ease-in-out;;
+    box-shadow: 0 4px 8px gray;
+    transition: 0.3s ease-in-out;
 }
+
+/* change bullet li */
+
+.card-text ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+.card-text li {
+    position: relative;
+    padding-left: 25px; 
+    margin-bottom: 5px; 
+}
+  
+.card-text li::before {
+    content: '\2713'; 
+    font-size: 20px; 
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+  
