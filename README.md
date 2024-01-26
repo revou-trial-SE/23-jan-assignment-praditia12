@@ -44,4 +44,6 @@ If you participated in the RevoU Full-Stack Trial: Software Engineering and woul
 
 Happy learning and coding! 🚀
 
+**Note:** This project is actively being developed, and content is currently populated with dummy data. Further updates and improvements are underway.
+
 
