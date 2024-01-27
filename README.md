@@ -42,8 +42,10 @@ If you participated in the RevoU Full-Stack Trial: Software Engineering and woul
 
 - [RevoU](https://revou.co/) - A special thanks to RevoU for organizing the Full-Stack Trial: Software Engineering program. We appreciate the opportunity to enhance our skills through this practical project.
 
+
+## Publish
+
+https://revou-trial-se.github.io/23-jan-assignment-praditia12/
+
+
 Happy learning and coding! 🚀
-
-**Note:** This project is actively being developed, and content is currently populated with dummy data. Further updates and improvements are underway.
-
-
